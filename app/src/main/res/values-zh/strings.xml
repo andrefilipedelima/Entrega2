@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">乙醇或汽油</string>
+    <string name="texto_gasolina">汽油升: </string>
+    <string name="texto_etanol">一升乙醇: </string>
+    <string name="texto_resultado_padrao">输入燃料类型值</string>
+    <string name="texto_resultado_gasolina">汽油是值得的</string>
+    <string name="texto_resultado_etanol">加油汽油</string>
+    <string name="descricao">燃料</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etanol o Gasolina</string>
+    <string name="texto_gasolina">Litro de Gasolina: </string>
+    <string name="texto_etanol">Litro de Etanol: </string>
+    <string name="texto_resultado_padrao">Ingrese los precios del Etanol y de la Gasolina</string>
+    <string name="texto_resultado_gasolina">Repostar GASOLINA</string>
+    <string name="texto_resultado_etanol">Repostar ETANOL</string>
+    <string name="descricao">combustible</string>
+</resources>

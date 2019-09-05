@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ethanol or Gas?</string>
+    <string name="texto_gasolina">Gas liter: </string>
+    <string name="texto_etanol">Liter of Ethanol: </string>
+    <string name="texto_resultado_padrao">Enter fuel type prices</string>
+    <string name="texto_resultado_gasolina">Refuel GAS</string>
+    <string name="texto_resultado_etanol">Refuel ETHANOL</string>
+    <string name="descricao">fuel</string>
+</resources>

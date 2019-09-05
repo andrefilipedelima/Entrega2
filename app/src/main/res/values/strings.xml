@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Etanol ou Gasolina</string>
+    <string name="texto_gasolina">Litro da Gasolina: </string>
+    <string name="texto_etanol">Litro do Etanol: </string>
+    <string name="texto_resultado_padrao">Informe os preços do Etanol e da Gasolina</string>
+    <string name="texto_resultado_gasolina">Abasteça GASOLINA</string>
+    <string name="texto_resultado_etanol">Abasteça ETANOL</string>
+    <string name="descricao">combustivel</string>
+</resources>
